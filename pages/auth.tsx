@@ -143,7 +143,7 @@ const Auth = () => {
         </div>
       </div>
       <footer className="text-white text-center p-4 h-auto">
-        Copyright © 2023 Evan Bahr with nextJs
+        Modified by Evan Bahr with nextJs
       </footer>
     </div>
   );
